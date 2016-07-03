@@ -1,0 +1,10 @@
+# Aliases
+[alias]
+  co = checkout
+  ci = commit
+  st = status
+  br = branch
+  pl = pull
+[core]
+  excludesfile = ~/.gigitignore_global
+  editor = vim
